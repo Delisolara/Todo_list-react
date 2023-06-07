@@ -73,7 +73,7 @@ h1 {
 }
 
 .Todo:nth-child(4n + 1){
-  background: #32d861ed;
+  background: #36e978ed;
   color: #fff;
 }
 
@@ -97,6 +97,6 @@ h1 {
 }
 
 .completed {
-  color: #c5aeff;
+  color: #ffffffa0;
   text-decoration: line-through;
 }
